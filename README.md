@@ -5,9 +5,9 @@ Here are a few of the projects I've been working on
 * Created a time series starting from January 2020
 * Frequency plots by gender, ethnicity and age group
 
-![ts](https://github.com/Calvindsza/Calvin_Portfolio/blob/main/images/time_series_graph.png)
+![ts](/images/time_series_graph.png)
 
-![age](https://github.com/Calvindsza/Calvin_Portfolio/blob/main/images/age_group_graph.png)
+![age](/images/age_group_graph.png)
 
 
 
@@ -17,7 +17,7 @@ Here are a few of the projects I've been working on
 * Took 3 different time series data sets (deaths, confirmed and recovered) and merged into one dataframe
 * Converted Wide to Long format to be able to use in time series
 
-![all](https://github.com/Calvindsza/Calvin_Portfolio/blob/main/images/jhu_all_countries_deaths_ts.png)
+![all](/images/jhu_all_countries_deaths_ts.png)
 
 
 
@@ -28,4 +28,4 @@ Here are a few of the projects I've been working on
 * Displayed Cases, Tests, Deaths per 1M for several countries
 
 
-![global_cases](https://github.com/Calvindsza/Calvin_Portfolio/blob/main/images/worldometer_cases_per_m.png)
+![global_cases](/images/worldometer_cases_per_m.png)
