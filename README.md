@@ -1,4 +1,3 @@
-# Calvin's Projects
 Here are a few of the projects I've been working on
 
 # [Project 1: CDC COVID-19 U.S. Case Surveillance](https://github.com/Calvindsza/CDC-COVID-Cases-US)
@@ -13,7 +12,6 @@ Here are a few of the projects I've been working on
 
 
 
-
 # [Project 2: Johns Hopkins COVID-19 Global Time Series](https://github.com/Calvindsza/JH-COVID-Global-TS)
 * Gather time series data from JHU GitHub to create a time series
 * Took 3 different time series data sets (deaths, confirmed and recovered) and merged into one dataframe
@@ -23,9 +21,10 @@ Here are a few of the projects I've been working on
 
 
 
+
 # [Project 3: Worldometer Global COVID-19 Cases](https://github.com/Calvindsza/Worldometer-Global-COVID-Cases)
 * Scraped [Worldometer](https://www.worldometers.info/coronavirus/) using BeautifulSoup to get global COVID-19 data
-* Cleaned data
+* Cleaned/transformed data
 * Displayed Cases, Tests, Deaths per 1M for several countries
 
 
