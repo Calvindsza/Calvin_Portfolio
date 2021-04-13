@@ -4,7 +4,7 @@ Here are a few of the projects I've been working on
 # [Project 1: CDC COVID-19 U.S. Case Surveillance](https://github.com/Calvindsza/CDC-COVID-Cases-US)
 * Gathered 10M records from the CDC public data set
 * Created a time series starting from January 2020
-* Also made frequency plots by gender, ethnicity and age group
+* Frequency plots by gender, ethnicity and age group
 
 ![ts](https://github.com/Calvindsza/CDC-COVID-Cases-US/blob/main/time_series_graph.png)
 
@@ -20,3 +20,13 @@ Here are a few of the projects I've been working on
 * Converted Wide to Long format to be able to use in time series
 
 ![all](https://github.com/Calvindsza/JH-COVID-Global-TS/blob/main/jhu_all_countries_deaths_ts.png)
+
+
+
+# [Project 3: Worldometer Global COVID-19 Cases](https://github.com/Calvindsza/Worldometer-Global-COVID-Cases)
+* Scraped [Worldometer](https://www.worldometers.info/coronavirus/) using BeautifulSoup to get global COVID-19 data
+* Cleaned data
+* Displayed Cases, Tests, Deaths per 1M for several countries
+
+
+![global_cases](https://github.com/Calvindsza/Worldometer-Global-COVID-Cases/blob/main/worldometer_cases_per_m.png)
